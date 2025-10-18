@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "s4/1c2o4WClhqQnyoJ4DZg1++DbfAoQ+pHeJLSDc9Cc=",
+  "Source": "ApiCustomers",
+  "BasePath": "_content/ApiCustomers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
